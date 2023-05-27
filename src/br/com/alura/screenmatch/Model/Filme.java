@@ -8,8 +8,9 @@ public class Filme extends Titulo implements Classificavel {
         super(nome, anoDeLacamento, incluidoNoPlano, duracaoEmMinutos);
     }
 
+
     @Override
     public int getClassificacao() {
-        return 0;
+        return 4;
     }
 }

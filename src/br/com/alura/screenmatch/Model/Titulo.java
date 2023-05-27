@@ -19,6 +19,8 @@ public class Titulo {
         this.duracaoEmMinutos = duracaoEmMinutos;
     }
 
+
+
     public void exibeFichaTecnica() {
         System.out.println("Nome: " + nome);
         System.out.println("Ano: " + anoDeLacamento);
