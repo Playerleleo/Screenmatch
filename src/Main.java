@@ -35,6 +35,10 @@ public class Main {
         filme01.avalia(10.0);
         filme01.avalia(8.0);
 
+        filme03.avalia(10.0);
+        filme03.avalia(10.0);
+        filme03.avalia(8.0);
+
         ArrayList<Titulo> lista = new ArrayList<>();
 
         lista.add(filme01);
